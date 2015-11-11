@@ -1,0 +1,1 @@
+Smoothy is a library of PHP code developed to simplify the task of creating a dynamic web site. It runs quickly and efficiently using the Smarty templating engine and Cache Lite library. MODx CMS is used for back-end site management.
